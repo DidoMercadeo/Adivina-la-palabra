@@ -4,7 +4,8 @@
     font-family: 'Open Sans';
 }
 body{
-    background: linear-gradient( #9b58d1,#ae91c5 );
+    background: url(img/dido.png);
+    background-size: cover;
     height: 100vh;
     display: flex;
     justify-content: center;
